@@ -43,7 +43,7 @@ Este repositorio reúne proyectos de ciencia de datos enfocados en problemas de 
 **Objetivo:** Construir un modelo predictivo que:
 - Pronostique la cantidad de pedidos de taxis para la siguiente hora
 - Capture patrones temporales como tendencia y estacionalidad
-**Técnicas:** análisis exploratorio con series temporales.
+**Técnicas:** análisis exploratorio con series temporales.  
 📁 Carpeta: `Portafolio/series_temporales_prediccion_taxis/`
 
 ---

@@ -7,7 +7,7 @@
 </div>
 
 <h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Data Scientist | Data Analyst | Machine Learning | Python | SQL | Visualización de Datos | Modelos Predictivos | Power BI </a></b>
+  <b><a href="https://www.linkedin.com/in/estefania-prieto-larios-data/">Data Scientist | Data Analyst | Machine Learning | Python | SQL | Visualización de Datos | Modelos Predictivos | Power BI </a></b>
 </h3>
 
 Hola, soy **Data Scientist** con experiencia en análisis de datos y automatización, especializada en **Python, SQL y modelos predictivos**.

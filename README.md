@@ -23,8 +23,8 @@ Este repositorio reúne proyectos de ciencia de datos enfocados en problemas de 
 ### 1) Predicción de Fuga de Clientes en bancos (Churn Beta Bank)
 **Objetivo:** predecir qué clientes tienen mayor probabilidad de abandonar el servicio.  
 **Modelos:** Regresión Logística, Random Forest  
-**Métricas:** F1-score / ROC-AUC
-**Resultado:** Precisión del 94% y un F1-Score de 86%
+**Métricas:** F1-score / ROC-AUC  
+**Resultado:** Precisión del 94% y un F1-Score de 86%  
 📁 Carpeta: `Portafolio/Churn Beta Bank/`
 
 ### 2) Recomendación de Plan Tarifario
@@ -49,7 +49,7 @@ Este repositorio reúne proyectos de ciencia de datos enfocados en problemas de 
 ---
 
 ## Habilidades
-- **Python, SQL**
+- **Python, SQL, Pandas, Nunpy, Seaborn, Matploylib, Scikit-learn**
 - **Machine Learning (scikit-learn)**
 - **Estadística aplicada y A/B testing**
 - **ETL / Automatización**

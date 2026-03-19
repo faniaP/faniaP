@@ -14,7 +14,7 @@ Hola, soy **Data Scientist** con experiencia en análisis de datos y automatizac
 Este repositorio reúne proyectos de ciencia de datos enfocados en problemas de negocio como **churn, segmentación, recomendación y optimización**.
 
 📍 CDMX, México  
-🔗 LinkedIn: https://linkedin.com/in/estefania-prieto-larios  
+🔗 LinkedIn: https://www.linkedin.com/in/estefania-prieto-larios-data/  
 ✉️ Email: estefaniaprietolarios@gmail.com
 
 
